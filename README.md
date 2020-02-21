@@ -1,4 +1,4 @@
-Link to deployment on Netlify (https://quirky-liskov-d9c968.netlify.com).
+Link to deployment on Netlify [Netlify Link](https://quirky-liskov-d9c968.netlify.com).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
